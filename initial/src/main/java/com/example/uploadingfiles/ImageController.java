@@ -1,5 +1,7 @@
-package com.example.uploadingfiles.image;
+package com.example.uploadingfiles;
 
+import com.example.uploadingfiles.image.Image;
+import com.example.uploadingfiles.image.ImageDbRepository;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.io.ByteArrayResource;
